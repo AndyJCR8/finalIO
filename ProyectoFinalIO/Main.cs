@@ -27,5 +27,11 @@ namespace ProyectoFinalIO
             Simplex simplex = new Simplex();
             simplex.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CostoMinimo costoMinimo = new CostoMinimo();
+            costoMinimo.ShowDialog();
+        }
     }
 }
