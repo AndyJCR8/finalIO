@@ -34,3 +34,16 @@ C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.
 C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.CoreCompileInputs.cache
 C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.exe
 C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.pdb
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\bin\Debug\ProyectoFinalIO.exe.config
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\bin\Debug\ProyectoFinalIO.exe
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\bin\Debug\ProyectoFinalIO.pdb
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.AssemblyReference.cache
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.CostoMinimo.resources
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.Main.resources
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.Properties.Resources.resources
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.Simplex.resources
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.GenerateResource.cache
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.CoreCompileInputs.cache
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.exe
+C:\Users\LOURDES\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.pdb

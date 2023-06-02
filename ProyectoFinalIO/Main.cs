@@ -33,5 +33,10 @@ namespace ProyectoFinalIO
             CostoMinimo costoMinimo = new CostoMinimo();
             costoMinimo.ShowDialog();
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            MessageBox.Show("AMMI GETZAIDA GONZÁLEZ ENRÍQUEZ - 202008008\nANDY DE JESÚS CÁCERES RAMÍREZ - 202008032\nJOEL JUAN PABLO GRAMAJO CHAN - 202008025\nLOURDES MARÍA DEL VALLE PEREIRA - 202008019");
+        }
     }
 }

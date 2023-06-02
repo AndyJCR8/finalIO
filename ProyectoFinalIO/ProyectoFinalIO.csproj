@@ -102,5 +102,8 @@
   <ItemGroup>
     <None Include="Resources\simplexScript.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo-Meso-Color.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
