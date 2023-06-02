@@ -103,6 +103,7 @@
             // rbMinimizacion
             // 
             this.rbMinimizacion.AutoSize = true;
+            this.rbMinimizacion.Checked = true;
             this.rbMinimizacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbMinimizacion.ForeColor = System.Drawing.Color.Black;
             this.rbMinimizacion.Location = new System.Drawing.Point(503, 61);
@@ -147,6 +148,8 @@
             this.coefRes});
             this.dgvEcuaciones.Location = new System.Drawing.Point(12, 184);
             this.dgvEcuaciones.Name = "dgvEcuaciones";
+            this.dgvEcuaciones.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToAllHeaders;
+            this.dgvEcuaciones.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvEcuaciones.Size = new System.Drawing.Size(655, 209);
             this.dgvEcuaciones.TabIndex = 45;
             // 
@@ -154,21 +157,25 @@
             // 
             this.coefX1.HeaderText = "X1";
             this.coefX1.Name = "coefX1";
+            this.coefX1.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             // 
             // coefX2
             // 
             this.coefX2.HeaderText = "X2";
             this.coefX2.Name = "coefX2";
+            this.coefX2.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             // 
             // coefX3
             // 
             this.coefX3.HeaderText = "X3";
             this.coefX3.Name = "coefX3";
+            this.coefX3.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             // 
             // coefRes
             // 
             this.coefRes.HeaderText = "Resultado";
             this.coefRes.Name = "coefRes";
+            this.coefRes.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             // 
             // btnCalcular
             // 
@@ -194,7 +201,7 @@
             // 
             this.lblResult.AutoSize = true;
             this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResult.Location = new System.Drawing.Point(12, 432);
+            this.lblResult.Location = new System.Drawing.Point(94, 416);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(104, 24);
             this.lblResult.TabIndex = 46;
@@ -263,15 +270,15 @@
         private System.Windows.Forms.RadioButton rbMaximizacion;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.DataGridView dgvEcuaciones;
-        private System.Windows.Forms.DataGridViewTextBoxColumn coefX1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn coefX2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn coefX3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn coefRes;
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.TextBox txtbX3;
         private System.Windows.Forms.TextBox txtbX2;
         private System.Windows.Forms.TextBox txtbX1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn coefX1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn coefX2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn coefX3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn coefRes;
     }
 }

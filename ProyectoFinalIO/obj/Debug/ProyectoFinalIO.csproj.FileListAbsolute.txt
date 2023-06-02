@@ -21,3 +21,16 @@ C:\Users\apple\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.cs
 C:\Users\apple\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.exe
 C:\Users\apple\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.pdb
 C:\Users\apple\Source\Repos\finalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.CostoMinimo.resources
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\bin\Debug\ProyectoFinalIO.exe.config
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\bin\Debug\ProyectoFinalIO.exe
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\bin\Debug\ProyectoFinalIO.pdb
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.AssemblyReference.cache
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.CostoMinimo.resources
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.Main.resources
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.Properties.Resources.resources
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.Simplex.resources
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.GenerateResource.cache
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.exe
+C:\Users\andy_\Desktop\FinalIO\ProyectoFinalIO\obj\Debug\ProyectoFinalIO.pdb
